@@ -1,0 +1,10 @@
+body{
+background: url(../Imágenes/fondo\ wed.webp);
+background-attachment: fixed}
+.letra{
+font-family: font-family: 'Indie Flower', cursive;, Geneva, Tahoma, sans-serif;
+}
+#navegador ul{
+    list-style-type: none;
+    text-align: center;
+ }
